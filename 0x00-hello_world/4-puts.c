@@ -1,7 +1,7 @@
 #include <studio.h>
 /**
- * main - Entry
- * Return: Always 0
+ * main - prints a given phrase
+ * Return: Always 0 if exited properly, non-zero otherwise
  */
 int main(void)
 {
