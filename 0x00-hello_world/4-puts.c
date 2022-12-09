@@ -1,10 +1,10 @@
-#include <studio.h>
+#include <stdio.h>
 /**
- * main - prints a given phrase
- * Return: Always 0 if exited properly, non-zero otherwise
+ * main - main block
+ * return: 0
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like develop a multlingual puzzel");
 	return (0);
 }
